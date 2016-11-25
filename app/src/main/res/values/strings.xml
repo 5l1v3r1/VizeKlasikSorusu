@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MerhabaDunya</string>
+    <string name="merhabaDunya">merhaba dünya</string>
+    <string name="uygulamaIsmi">Merhaba Dünya Uygulaması!</string>
+    <string name="kilo">Kilonuzu Giriniz</string>
+    <string name="boy">Boyunuzu Giriniz</string>
+    <string name="vki">VKI</string>
+</resources>
